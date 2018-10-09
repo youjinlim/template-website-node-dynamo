@@ -10,4 +10,8 @@ router.get('/', function(req, res, next) {
   });
 });
 
+/* 1. Received POST in full json format */
+
+/* 2. Upload of File, via PUT method (Same as with LTA) */
+
 module.exports = router;
